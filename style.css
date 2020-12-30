@@ -42,5 +42,12 @@ display: inline-block;
 iframe{
 width: 100%;
 }
+.school_li img {
+width: 100px;
+    height: 100px;
+}
+.school_li {
+    display: inline-block;
+}
 
 
